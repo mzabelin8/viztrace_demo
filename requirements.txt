@@ -1,0 +1,4 @@
+viztracer==1.0.3
+scikit-learn>=1.2.0
+numpy>=1.22.0
+matplotlib>=3.6.0
